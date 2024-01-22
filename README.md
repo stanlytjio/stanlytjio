@@ -1,4 +1,3 @@
-<h1 align="center">Hi There! 👋, It's Stanly</h1>
 <img src="header.png"></img>
 <h3 align="center">Everyone's Favorite Future Front End Developer</h3>
 
