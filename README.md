@@ -1,4 +1,5 @@
 <h1 align="center">Hi There! 👋, It's Stanly</h1>
+<img src="header.png"></img>
 <h3 align="center">Everyone's Favorite Future Front End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanlytjio&label=Profile%20views&color=0e75b6&style=flat" alt="stanlytjio" /> </p>
